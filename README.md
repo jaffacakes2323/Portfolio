@@ -2,7 +2,7 @@
 Data Analyst Portfolio
 
 
-# [Project 1: June 2022 Oil Price Analysis] (https://github.com/jaffacakes2323/oil_price_scraping)
+# [Project 1: June 2022 Oil Price Analysis](https://github.com/jaffacakes2323/oil_price_scraping)
 
 - Scraped data to add to an existing dataset on Oil Prices by country
 - Used PyCharm to create a program to scrape country population and oil production from online sources
