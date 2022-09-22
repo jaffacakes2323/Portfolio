@@ -1,3 +1,4 @@
+theme: Architect
 # Tom_Portfolio
 Data Analyst Portfolio
 
