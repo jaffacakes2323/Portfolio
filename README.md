@@ -1,4 +1,4 @@
-theme: Architect
+remote_theme: pages-themes/midnight@v0.2.0
 # Tom_Portfolio
 Data Analyst Portfolio
 
