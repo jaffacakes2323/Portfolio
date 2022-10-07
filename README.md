@@ -1,13 +1,27 @@
 # Tom_Portfolio
-Data Analyst Portfolio
+
+Data Analysis
 
 
-# [Project 1: June 2022 Oil Price Analysis](https://github.com/jaffacakes2323/oil_price_scraping)
+## [Project 1: June 2022 Oil Price Analysis](https://github.com/jaffacakes2323/oil_price_scraping)
 
-- Scraped data to add to an existing dataset on Oil Prices by country
-- Used PyCharm to create a program to scrape country population and oil production from online sources
-- Built using app using the Python BeautifulSoup & Pandas libraries
-- CSV file was downloaded with partial data, updated and then a new CSV created with new data
-- Opened CSV in Excel for cleaning, filtering and sorting
-- New rows added for GBP using formulas & Flash Fill 
-- Dealt with inconsistencies in spelling and udpated headers using Excel PROPER function 
+### Collecting Data
+- [Downloaded data from Kaggle for exploration and analysis](https://www.kaggle.com/datasets/zusmani/petrolgas-prices-worldwide)
+- [Scraped extra for further anaylsis on Oil production and country populations](https://www.worldometers.info/oil/oil-production-by-country/)
+- Program built in PyCharm for scraping population and oil production data
+  - BeautifulSoup & Pandas used
+- New data combined with old, then saved as a new CSV [New_Oil_Dataset(20.06.2022).csv](https://github.com/jaffacakes2323/oil_price_scraping/blob/main/New_Oil_Dataset(20.06.2022).csv)
+
+### Wrangling
+- CSV opened in Excel
+- Most data had already been cleaned
+- New rows with formulas & Flash Fill added for GBP
+- Altered some spelling (e.g Liter > Litre) and udpated headers with PROPER function
+- TRIM function for unwanted spaces
+- Format column types (Currency, numeric commas etc.)
+- Replace null values
+
+### Analysis and Visuals 
+- Insert Table & PivotTable (new sheet)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_pivot.png)
+- Added specific columnns for PivotTable, and applied some conditional formatting to highlight areas of interest. Some countries with particularly high & low Price per litre stood out
