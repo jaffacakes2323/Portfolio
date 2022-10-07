@@ -23,7 +23,7 @@ Data Analysis
 - Added normalised row (simple feature scaling) for population and yearly oil consumption
 - Insert Table & PivotTable (new sheet)
 - Added specific columnns for PivotTable, and applied some conditional formatting to highlight areas of interest. Some countries with particularly high & low Price per litre stood out
-- ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_pivot.png)
+- ![]()
 
 ### Analysis and Visualisation
-- 
+- First thing to notice when looking at the PivotTable, is that in the top 30 of highest oil producing countries, 15 of these are in the lowest 30% for price per litre. Which you would except from these countries. 3 of the top 5 would appear to have a relatively high price in comparison. This could be down to the consumption per capita, or from other political influences. 
