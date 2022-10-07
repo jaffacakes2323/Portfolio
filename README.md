@@ -26,7 +26,10 @@ Data Analysis
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_pivot.png)
 
 ### Analysis and Visualisation
-- First thing to notice when looking at the PivotTable, is that in the top 30 of highest oil producing countries, 15 of these are part of the lowest 20% regarding price per litre. Which you would except from the top oil producing countries. 3 of the top 5 would appear to have a relatively high price in comparison (US, China and Russia). This is likely down to the high consumption per capita, or from other political influences. 
+- First thing to notice when looking at the PivotTable, is that in the top 30 of highest oil producing countries, 15 of these are part of the lowest 20% regarding price per litre. Which you would except from the top oil producing countries. 3 of the top 5 would appear to have a relatively high price in comparison (US, China and Russia). This is likely down to the high consumption per capita and other political influences. 
 
-![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_consumption_2.png)
-![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production.png)
+![Screenshot 1](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_consumption_2.png)
+![Screenshot 2](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production.png)
+
+The below pie chart shows that, out of the top 10 oil producing countries, the US, Saudia Arabia and Russia are the biggest contirbutors by a considerable amount (58% of total top 10 production).
+![Screenshot 3](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production_pie.png)
