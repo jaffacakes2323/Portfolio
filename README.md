@@ -67,7 +67,7 @@ Libraries included:
 * Matplotlib
 * Seaborn
 
-[Week 1](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This file has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
+[Week 1](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This folder has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
 
 - Jobs_API.ipynb (the Flask file used to host API, created by course providers. Everything that follows is my code and work)
 - Collecting_Jobs_data_Using_API.ipynb (first assignment for pulling data from API)
