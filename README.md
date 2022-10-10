@@ -35,19 +35,19 @@ Data Analysis
 ![Screenshot 3](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production_pie.png)
 ![Screenshot 4](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
-- Created a column chart to show the top 25 populated countries alongside oil consumption. Again the US stands out here with a much higher consumption rate in compared with population. Created a similar column chart whilst fitering by consmption instead, provides another angle. There are further coutries here that show a higher consumption raite in proportion to their population (Japan, Russia, Saudi Arabia, South Korea...). 
+- Created a column chart to show the top 25 populated countries alongside oil consumption. Again the US stands out here with a much higher consumption rate in compared with population. Created a similar column chart whilst fitering by consmption instead, to provide another angle. There are further coutries here that show a higher consumption raite in proportion to their population (Japan, Russia, Saudi Arabia, South Korea...). 
 
 ![Screenshot 5](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
-The below combo chart helps explore usage per capita further. I was suprised to see the US outside of the top 10, considering their overal usage. Singapore is definitely an outlier here, at least doubling all other yearly litres per capita. 7 of these top 10 countries have a much smaller land mass, which is a major point of interest and inspires further invesitagation. What causes these smaller countries to be consuming more per capita? Is this politically, ecenomically or cultrally influenced? This also poses the question of whether the data source is trustworthy, and if the information is accurate.
+The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher consumption. Singapore is definitely an outlier here, at least doubling all other yearly litres per capita. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further invesitagation. What causes these smaller countries to have a higher rate of consumption per capita? Is this politically, ecenomically or cultrally influenced?
 
 ![Screenshot 6](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
 
-The final 2 graphs help visualise the countries with the highest and lowest prices per litre. North Korea having a 10 times higher price than the average (£1.25 per litre). Clearly a result of heavy sanctions and limited sources.
+The final 2 graphs help visualise the countries with the highest and lowest prices per litre. North Korea having a 10 times higher price than the average (£1.25 per litre). Clearly a result of heavy sanctions and limited resources.
 
 ![Screenshot 7](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/highest_price.png)
 
-Below shows a combo graph for the coutries with the lowest price per litre (line), and their production rates, to see if there is a strong correlation with price and production. However, whilst there are some high producing countries here with low prices (Saudi Arabia in particular), there is no clear relationship, as some of the coutnries with the lowest pricest, also have a low contribution in terms of production.
+Below shows a combo graph for the coutries with the lowest price per litre (line), and their production rates, to show if there is a strong correlation with price and production. However, whilst there are some high producing countries here with low prices (Saudi Arabia in particular), there is no clear relationship, as some of the lowest prices also have a low production contribution.
 
 ![Screenshot 8](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/lowest_price_production.png)
 
@@ -67,7 +67,7 @@ Libraries included:
 * Matplotlib
 * Seaborn
 
-[Week 1](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This folder has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
+[Scraping, API & Exploring](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This folder has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
 
 - Jobs_API.ipynb (the Flask file used to host API, created by course providers. Everything that follows is my code and work)
 - Collecting_Jobs_data_Using_API.ipynb (first assignment for pulling data from API)
@@ -82,20 +82,20 @@ Libraries included:
 
 - M1ExploreDataSet-lab.ipynb (main file for exploration)
 
-[Week 2](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%202(Wrangling)) - This week is for data wrangling (finding, determining, removing duplicates & missing values. Plus normalising data)
+[Wrangling](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%202(Wrangling)) - This week is for data wrangling (finding, determining, removing duplicates & missing values. Plus normalising data)
 
 - DataWranglingNotebook.ipynb
 
-[Week 3](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%203(Exploratory%20DA)) - Further explatory data analysis (plotting distribution, finding outliers and checking for correlation)
+[Explatory Analysis](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%203(Exploratory%20DA)) - Further explatory data analysis (plotting distribution, finding outliers and checking for correlation)
 
 - ExploratoryDataAnalysis.ipynb
 
-[Week 4](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparision)
+[Visualisation](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparision)
 
 - DataVisualisation.ipynb (main folder for assignment)
 - m4_survey_data.sqlite (data used for exploring)
 
-[Week 5](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
+[Dashboard](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
 
 - IBM Cloud Pak for data (HTTP link for dashboard)
 - survery_data_demographics.csv (data used for dashboard)
