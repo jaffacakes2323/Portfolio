@@ -23,33 +23,44 @@ Data Analysis
 - Added normalised row (simple feature scaling) for population and yearly oil consumption
 - Insert Table & PivotTable (new sheet)
 - Added specific columnns for PivotTable, and applied some conditional formatting to highlight areas of interest
+
+[Screenshot 1](https://github.com/jaffacakes2323/Portfolio/blob/main/images/oil_pivot.png)
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_pivot.png)
 
 ### Analysis and Visualisation
 - First thing to notice when looking at the PivotTable, is out of the top 30 of highest oil producing countries, 15 of these are part of the lowest 20% regarding price per litre. Which you would except from the top producing countries. However, 3 of the top 5 would appear to have a relatively high price in comparison (US, China and Russia). This is likely down to the high consumption per capita and other political influences. 
 
-![Screenshot 1](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_consumption_2.png)
-![Screenshot 2](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production.png)
+[Screenshot 2](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_consumption_2.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_consumption_2.png)
+[Screenshot 3](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production.png)
 
 - The below pie chart shows that, out of the top 10 oil producing countries, the US, Saudia Arabia and Russia are the biggest contirbutors by a considerable amount (58% of total top 10 production).
-![Screenshot 3](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production_pie.png)
-![Screenshot 4](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
+
+[Screenshot 4](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production_pie.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/oil_production_pie.png)
+[Screenshot 5](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
 - Created a column chart to show the top 25 populated countries alongside oil consumption. Again the US stands out here with a much higher consumption rate in compared with population. Created a similar column chart whilst fitering by consmption instead, to provide another angle. There are further coutries here that show a higher consumption raite in proportion to their population (Japan, Russia, Saudi Arabia, South Korea...). 
 
-![Screenshot 5](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
+[Screenshot 6](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
 The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher consumption. Singapore is definitely an outlier here, at least doubling all other yearly litres per capita. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further invesitagation. What causes these smaller countries to have a higher rate of consumption per capita? Is this politically, ecenomically or cultrally influenced?
 
-![Screenshot 6](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
+[Screenshot 7](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
 
 The final 2 graphs help visualise the countries with the highest and lowest prices per litre. North Korea having a 10 times higher price than the average (£1.25 per litre). Clearly a result of heavy sanctions and limited resources.
 
-![Screenshot 7](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/highest_price.png)
+[Screenshot 8](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/highest_price.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/highest_price.png)
 
 Below shows a combo graph for the coutries with the lowest price per litre (line), and their production rates, to show if there is a strong correlation with price and production. However, whilst there are some high producing countries here with low prices (Saudi Arabia in particular), there is no clear relationship, as some of the lowest prices also have a low production contribution.
 
-![Screenshot 8](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/lowest_price_production.png)
+[Screenshot 9](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/lowest_price_production.png)
+![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/lowest_price_production.png)
 
 
 
@@ -93,7 +104,6 @@ Libraries included:
 [Visualisation](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparision)
 
 - DataVisualisation.ipynb (main folder for assignment)
-- m4_survey_data.sqlite (data used for exploring)
 
 [Dashboard](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
 
