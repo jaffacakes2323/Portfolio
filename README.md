@@ -50,3 +50,55 @@ The final 2 graphs help visualise the countries with the highest and lowest pric
 Below shows a combo graph for the coutries with the lowest price per litre (line), and their production rates, to see if there is a strong correlation with price and production. However, whilst there are some high producing countries here with low prices (Saudi Arabia in particular), there is no clear relationship, as some of the coutnries with the lowest pricest, also have a low contribution in terms of production.
 
 ![Screenshot 8](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/lowest_price_production.png)
+
+
+
+## [Project 2: IBM Data Analyst Capstone Project](https://github.com/jaffacakes2323/IBM_Capstone)
+
+
+These are the Notebooks, CSVs, screenshots and links for the Coursera IBM Data Analyst Capstone project.
+
+Libraries included:
+
+* Pandas
+* Beautiful Soup
+* JSON
+* Requests
+* Matplotlib
+* Seaborn
+
+[Week 1](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This file has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
+
+- Jobs_API.ipynb (the Flask file used to host API, created by course providers. Everything that follows is my code and work)
+- Collecting_Jobs_data_Using_API.ipynb (first assignment for pulling data from API)
+- job-postings.xlsx (Excel file created in assignment, after pulling data and sorting into dataframe)
+
+(2) Web scraping folder:
+
+- Web-Scraping-Lab.ipynb (main file for scraping data from website)
+- popular-languages.csv (CSV file created after scraping data)
+
+(3) Exploring data folder:
+
+- M1ExploreDataSet-lab.ipynb (main file for exploration)
+
+[Week 2](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%202(Wrangling)) - This week is for data wrangling (finding, determining, removing duplicates & missing values. Plus normalising data)
+
+- DataWranglingNotebook.ipynb
+
+[Week 3](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%203(Exploratory%20DA)) - Further explatory data analysis (plotting distribution, finding outliers and checking for correlation)
+
+- ExploratoryDataAnalysis.ipynb
+
+[Week 4](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparision)
+
+- DataVisualisation.ipynb (main folder for assignment)
+- m4_survey_data.sqlite (data used for exploring)
+
+[Week 5](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
+
+- IBM Cloud Pak for data (HTTP link for dashboard)
+- survery_data_demographics.csv (data used for dashboard)
+- survey_data_technologies_normalised.csv (data used for dashboard)
+
+
