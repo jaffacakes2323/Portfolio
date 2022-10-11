@@ -14,7 +14,6 @@ Data Analysis
 
 ### Data wrangling
 - CSV opened in Excel
-- Most data had already been cleaned
 - New rows with formulas & Flash Fill added for GBP
 - Altered some spelling (e.g Liter > Litre) and updated headers with PROPER function
 - TRIM function for unwanted spaces
@@ -47,7 +46,7 @@ Data Analysis
 [Screenshot 6](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
-The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher consumption. Singapore is definitely an outlier here, at least doubling all other yearly litres per capita. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further investigation. What causes these smaller countries to have a higher rate of consumption per capita? Is this politically, economically or culturally influenced?
+The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher consumption. Singapore is definitely an outlier here, at least doubling all other entries. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further investigation. What causes these smaller countries to have a higher rate of consumption per capita? Is this politically, economically or culturally influenced?
 
 [Screenshot 7](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
@@ -67,7 +66,7 @@ Below shows a combo graph for the countries with the lowest price per litre (lin
 ## [Project 2: IBM Data Analyst Capstone Project](https://github.com/jaffacakes2323/IBM_Capstone)
 
 
-These are the Notebooks, CSVs, screenshots and links for the Coursera IBM Data Analyst Capstone project.
+These are the Notebooks, CSVs, screenshots and links for the [Coursera IBM Data Analyst Capstone project](https://www.coursera.org/professional-certificates/ibm-data-analyst).
 
 Libraries included:
 
@@ -78,7 +77,7 @@ Libraries included:
 * Matplotlib
 * Seaborn
 
-[Scraping, API & Exploring](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This folder has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis: (1) API folder:
+[Scraping, API & Exploring](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%201(Scraping%2C%20API%20%26Exploring)) - This folder has 3 notebooks for importing from APIs, web pages, and exploratory analysis: (1) API folder:
 
 - Jobs_API.ipynb (the Flask file used to host API, created by course providers. Everything that follows is my code and work)
 - Collecting_Jobs_data_Using_API.ipynb (first assignment for pulling data from API)
@@ -101,11 +100,11 @@ Libraries included:
 
 - ExploratoryDataAnalysis.ipynb
 
-[Visualisation](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparison)
+[Visualisation & SQLite](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%204(Visualisation)) - Data visualisation (Visualising distribution, relationship, composition and comparison)
 
 - DataVisualisation.ipynb (main folder for assignment)
 
-[Dashboard](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
+[Dashboard](https://github.com/jaffacakes2323/IBM_Capstone/tree/main/Week%205(Cognos)) - Using IBM Cognos Analytics to create a dashboard (screenshots included)
 
 - IBM Cloud Pak for data (HTTP link for dashboard)
 - survery_data_demographics.csv (data used for dashboard)
