@@ -46,7 +46,7 @@ Data Analysis
 [Screenshot 6](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/population_oilconsumption.png)
 
-The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher net consumption. Singapore is definitely an outlier here, at least doubling all other entries. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further investigation into why their consumption per capita is so high. Is this politically, economically or culturally influenced?
+The below combo chart helps explore usage per capita further. Unexpectedly, the US is outside of the top 10, despite their much higher net consumption. Singapore is definitely an outlier here, at least doubling all other entries. 7 of these top 10 countries have a much smaller land mass, which is a point of interest and asks for further investigation into why their consumption per capita is so high.
 
 [Screenshot 7](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
 ![](https://github.com/jaffacakes2323/Tom_Portfolio/blob/main/images/litres_per_capita_by_price.png)
